@@ -12,9 +12,9 @@ This repository contains all of the java code implementations for each topic in 
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [KeyFeatures](#key-features) 
+- [Introduction](#-introduction)
+- [Usage](#-usage)
+- [KeyFeatures](#-key-features) 
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing) 
 - [License](#license)
@@ -44,3 +44,30 @@ The hands-on experience gained from working with this repository's code samples 
 - **Educational Resources:** Find code snippets, examples, and projects that illustrate key data structures and algorithms covered in the course.
 - **Hands-On Exercises:** Engage in practical exercises to reinforce theoretical knowledge and enhance your problem-solving skills.
 - **Project Templates:** Use provided project templates to kickstart your assignments and projects for the course.
+
+## 📈 [Lesson](#lesson)              
+
+### CCDATRCL Table lecture
+#### Course Outline and Timeframe
+#### Subject for changes -delete this comment after you change the table (this table is for reference only)
+
+| Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
+|----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1        | August 10     | Class Orientation                                   | Course Syllabus                                                                                     |  
+|          |               | - Ø University Mission & Vision                     |                                                                                                     | 
+|          |               | - Ø College Mission & Vision                        |                                                                                                     |   
+|          |               | - Ø Course Syllabi                                  |                                                                                                     |  
+|          |               | - Ø Lab Guidelines and Safety Review                |                                                                                                     |
+| 2        | August 17     | Review of OOP Basics                                | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce                                        |    
+| 3        | August 24     | Encapsulation, Inheritance, Polymorphism            | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
+| 4        | August 31     | Forms of Inheritance                                | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
+|          | August 27     | Programming by Contract                             | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 5        | September 7   | Subtyping versus Subclassing                        | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 6        | September 14  | Double dispatch                                     | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
+| 7        | September 21  | Multiple Inheritance                                | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
+| 8        | September 28  | Formal Models of OOP System                         | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 9        | October 5     | Unified modeling language and formal specification languages                        | Chapter 14 Java Programming Eight Edition, Farrell, Joyce                                         |
+| 10       | October 12    | Design Patterns ( Creational )            | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 11       | October 19    | Design Patterns ( Structural, Behavioral )           | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 12       | October 26    | Design Patterns ( Model-View-Controller )            | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 13       | November 2    | Course Synthesis & Final Examination                 |                                                                                                     |
