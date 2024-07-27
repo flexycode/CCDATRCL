@@ -20,9 +20,6 @@ This repository contains all of the java code implementations for each topic in 
 - [License](#license)
 - [GitHub Repository](#github-repository)
 
-## 🛸 Introduction
-
-## 👷 Usage
 
 ## 🛸 Introduction
 
@@ -36,11 +33,11 @@ This repository serves as a practical companion to the course, providing student
 
 ## 👷 Usage
 
-The purpose of the "OBJECT-ORIENTED PROGRAMMING" course is to empower students with the skills necessary to design and build robust, scalable, and maintainable software systems. 
+The purpose of the "DATA STRUCTURE AND ALGORITHM" course is to empower students with the skills necessary to design and implement efficient algorithms and utilize appropriate data structures.
 
-In an increasingly complex software landscape, OOP serves as a foundational paradigm that enables developers to create modular, adaptable, and extensible code. By the end of this course, students are expected to comprehend the principles of OOP, apply them to solve real-world problems, and appreciate the significance of object-oriented design in the development lifecycle. 
+In the realm of software development, understanding data structures and algorithms is crucial for developing scalable and optimized solutions. By the end of this course, students are expected to comprehend various data structures, such as arrays, linked lists, stacks, queues, trees, and graphs, and be able to apply algorithms like sorting, searching, and graph traversal to solve real-world problems.
 
-The hands-on experience gained from working with this repository's code samples and projects aims to reinforce theoretical knowledge and prepare students for practical challenges in the realm of software development.
+The hands-on experience gained from working with this repository's code samples and projects aims to reinforce theoretical knowledge and prepare students for practical challenges in the field of data structure and algorithm implementation.
 
 ## 🚀 Key Features
 
