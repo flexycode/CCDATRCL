@@ -41,6 +41,6 @@ The hands-on experience gained from working with this repository's code samples 
 
 ## 🚀 Key Features
 
-- **Educational Resources:** Find code snippets, examples, and projects that illustrate key OOP concepts covered in the course.
-- **Hands-On Exercises:** Engage in practical exercises to reinforce theoretical knowledge and enhance your programming skills.
+- **Educational Resources:** Find code snippets, examples, and projects that illustrate key data structures and algorithms covered in the course.
+- **Hands-On Exercises:** Engage in practical exercises to reinforce theoretical knowledge and enhance your problem-solving skills.
 - **Project Templates:** Use provided project templates to kickstart your assignments and projects for the course.
