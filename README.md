@@ -71,4 +71,4 @@ The hands-on experience gained from working with this repository's code samples 
 | 10       | October 12    | Design Patterns ( Creational )            | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
 | 11       | October 19    | Design Patterns ( Structural, Behavioral )           | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
 | 12       | October 26    | Design Patterns ( Model-View-Controller )            | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
-| 13       | November 2    | Course Synthesis & Final Examination                 |                                                                                                     |
+| 13       | November 9-15 | Course Synthesis & Final Examination                 |                                                                                                     |
