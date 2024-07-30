@@ -1,5 +1,5 @@
 <!-- Background github cover with short introduction down below -->
-<img src="https://github.com/Theropodr/Theropodr/blob/main/assets/RavenVanillaPhoenix.jpg" />
+<img src="https://github.com/flexycode/CCDATRCL/blob/main/assets/DataStructureandAlgorithmv1.png" />
 
 # 💫 CCDATRCL - DATA STRUCTURES AND ALGORITHMS
 
@@ -27,13 +27,13 @@ Data structures and algorithms (DSA) are an important aspect of any programming 
 
 ## 🛸 Introduction
 
-Welcome to the "CCOBJPGL - Object-Oriented Programming" repository! This collection of code and resources is dedicated to the educational exploration of Object-Oriented Programming (OOP). 
+Welcome to the "CCDATRCL - Data Structures and Algorithms" repository! This collection of code and resources is dedicated to the educational exploration of fundamental data structures and algorithms.
 
-The "OBJECT-ORIENTED PROGRAMMING" course is designed to equip students with a foundational understanding of OOP principles, a paradigm crucial in modern software development. 
+The "DATA STRUCTURES AND ALGORITHMS" course is designed to equip students with a deep understanding of the underlying principles and techniques that enable efficient and effective problem-solving in computer science.
 
-OOP emphasizes organizing code around objects, encapsulation, inheritance, and polymorphism. By fostering a design approach centered on real-world entities and their interactions, OOP enhances code modularity, reusability, and maintainability. 
+Data structures and algorithms are the building blocks of software development, allowing programmers to organize, process, and analyze data in a way that is both efficient and scalable. By mastering these concepts, students will gain a solid foundation in computer science and be able to tackle complex problems with confidence.
 
-This repository serves as a practical companion to the course, providing students with hands-on examples, exercises, and project templates to solidify their grasp of OOP concepts and cultivate effective coding practices.
+This repository serves as a practical companion to the course, providing students with hands-on examples, exercises, and project templates to solidify their grasp of data structures and algorithms, including arrays, linked lists, stacks, queues, trees, graphs, and more. Through this repository, students will develop the skills to analyze problems, design efficient solutions, and implement them in a variety of programming languages.
 
 ## 👷 Usage
 
@@ -113,10 +113,48 @@ coming soon...
 ```
 coming soon...
 ```
+<!-- 
+This course project repository is licensed under the [MIT License and National University](https://github.com/flexycode/CCDATRCL/blob/main/LICENSE) 
+-->
+
+## National University of Manila License   
+
+The National University of Manila License grants permission to students of the National University of Manila to use, modify, and distribute this project for educational purposes within the scope of their coursework and assignments.
+
+### Usage 
+
+- You may use this project as a reference or learning material for your studies at the National University of Manila.
+- You may modify the project to suit your educational needs and requirements.
+- You may share the project with your fellow students or instructors for educational purposes.
+
+### Restrictions
+
+- You may not use this project for commercial purposes.
+- You may not redistribute or publish this project outside the National University of Manila without explicit permission.
+
+## Disclaimer
+
+This project is provided "as is" without warranty of any kind, express or implied. The National University of Manila and the project contributors disclaim any liability or responsibility for any direct, indirect, incidental, special, exemplary, or consequential damages arising out of the use or misuse of this project.
+
+# 🔭 Acknowledgements   
+
+### ✨ Professor Mrs. Jensen A. Santillan  
+```
+Professor Jensen background profile coming soon...
+```
 
 # 📫 Changelogs
 ```
-coming soon...
+## [8.0.0] - 2024-08-05      
+### Added  
+- ✨ Coming Soon
+- ✨ Coming Soon
+
+### Changed
+- ✨ Coming Soon
+
+### Fixed 
+- ✨ Coming Soon
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
