@@ -62,10 +62,11 @@ The hands-on experience gained from working with this repository's code samples 
 | 2        | August 11     | Linked List                                          | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
 |          | August 15     | Stack                                                | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
 | 3        | August 19     | Queue                                                | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
-|          | August 22     | Subtyping versus Subclassing                         | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
-| 6        | September 14  | Double dispatch                                      | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
+|          | August 22     | Sorting Algorithms                                   | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 6        | September 14  | Tree                                     | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
 | 7        | September 21  | Multiple Inheritance                                 | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
-| 8        | September 28  | Formal Models of OOP System                          | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 8        | September 25  | MIDTERM EXAM                          | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 8        | September 30  | MIDTERM EXAM                          | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
 | 9        | October 5     | Unified modeling language and formal specification languages                        | Chapter 14 Java Programming Eight Edition, Farrell, Joyce                                         |
 | 10       | October 12    | Design Patterns ( Creational )            | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
 | 11       | October 19    | Design Patterns ( Structural, Behavioral )           | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
