@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/Theropodr/Theropodr/blob/main/assets/RavenVanillaPhoenix.jpg" />
+
 # 💫 CCDATRCL - DATA STRUCTURES AND ALGORITHMS
 
 ### Name: Jay Arre Talosig  
@@ -58,17 +61,20 @@ The hands-on experience gained from working with this repository's code samples 
 |          |               | - Ø College Mission & Vision                         |                                                                                                     |   
 |          |               | - Ø Course Syllabi                                   |                                                                                                     |  
 |          |               | - Ø Lab Guidelines and Safety Review                 |                                                                                                     |
-|          | August 8      | Introduction to Data Structures                      | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce                                        |    
-| 2        | August 11     | Linked List                                          | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
-|          | August 15     | Stack                                                | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
-| 3        | August 19     | Queue                                                | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
-|          | August 22     | Sorting Algorithms                                   | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
-| 6        | September 14  | Tree                                     | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
-| 7        | September 21  | Multiple Inheritance                                 | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
-| 8        | September 25  | MIDTERM EXAM                          | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
-| 8        | September 30  | MIDTERM EXAM                          | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
-| 9        | October 5     | Unified modeling language and formal specification languages                        | Chapter 14 Java Programming Eight Edition, Farrell, Joyce                                         |
-| 10       | October 12    | Design Patterns ( Creational )            | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
-| 11       | October 19    | Design Patterns ( Structural, Behavioral )           | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
-| 12       | October 26    | Design Patterns ( Model-View-Controller )            | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+|          | August 8      | Introduction to Data Structures                      | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |    
+| 2        | August 11     | Linked List                                          | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+|          | August 15     | Stack                                                | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+| 3        | August 19     | Queue                                                | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+|          | August 22     | Sorting Algorithms                                   | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+| 4        | August 26     | Tree                                                 | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+| 7        | August 29     | Binary Search Tree and Heap                          | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+| 9        | September 2   | Check if a tree is BST or not                        | [Base on my own Research🚀](https://github.com/flexycode/CCDATRCL)                                 |
+| 10       | September 5   | Binary Tree traversals                               | [Base on my own Research🚀](https://github.com/flexycode/CCDATRCL)                                 |
+| 11       | September 9   | Lowest common ancestor of a Binary Tree              | [Base on my own Research🚀](https://github.com/flexycode/CCDATRCL)                                 |
+| 12       | September 12   | Graph                                               | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+| 11       | September 16   | Design Patterns ( Structural, Behavioral )           | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 12       | September 19   | Design Patterns ( Model-View-Controller )            | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 12       | September 19   | Design Patterns ( Model-View-Controller )            | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 8        | September 25  | MIDTERM EXAM                                         | [Kindly give me a star here💫](https://github.com/flexycode/flexycode)                             |
+| 8        | September 30  | MIDTERM EXAM                                         | [Kindly give me a star here💫](https://github.com/flexycode/flexycode)                             |
 | 13       | November 9-15 | Course Synthesis & Final Examination                 |                                                                                                     |
