@@ -4,7 +4,7 @@
 # 💫 CCDATRCL - DATA STRUCTURES AND ALGORITHMS
 
 ### Name: Jay Arre Talosig  
-### Subject & Section: CCDATRCL - TBA 
+### Subject & Section: CCDATRCL - COM231 
 ### Professor: Mrs. Jensen A. Santillan       
 ### No. of Units: 3 Units
 ### Prerequisite: [CCPRGG2L Intermediate Programming](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_PROGRAMMING)
