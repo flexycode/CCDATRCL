@@ -68,10 +68,19 @@ The hands-on experience gained from working with this repository's code samples 
 |          | August 8      | - Ø Abstract Data Types (ADTs)                       | Course Materials, PPT, Sample Programs                                                              |    
 |          |               | - Ø Introduction to Data Structures                  |                                                                                                     |
 | 2        | August 12     | 2.1 - Classes / Structure                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
-|          |               | 2.2 - Class Definition / Type Definition             |                                                                                                     |
-|          | August 15     | Involving structures                                 |                                                                                                     |
-|          | August 15     | Stack                                                | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
-| 3        | August 19     | Queue                                                | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+|          |               | 2.2 - Class Definition                               |                                                                                                     |
+|          | August 15     | Type Definition                                      |                                                                                                     |
+|          |               | Involving structures                                 |                                                                                                     |
+| 3        | August 19     | 3.1 - Linked-list                                    | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+|          |               | 3.2 - Linked-list operations                         |                                                                                                    |
+|          | August 22     | 3.3 - Linked-list traversal                          |                                                                                                    |
+|          |               |                                                      |                                                                                                    |
+| 4        | August 26     | 4.1 - Stack Definition                               | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+|          |               | 4.2 - Stack Application                              |                                                                                                    |     
+|          | August 28     | 4.3 - Stack Implementation using an Array            |                                                                                                    | 
+|          |               | - Ø Stack Implementation using a Linked-list         |                                                                                                    |   
+|          |               |                                                      |                                                                                                    | 
+|          | August 19     | Queue                                                | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
 |          | August 22     | Sorting Algorithms                                   | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
 | 4        | August 26     | Tree                                                 | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
 |          | August 29     | Binary Search Tree and Heap                          | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
