@@ -87,17 +87,23 @@ The hands-on experience gained from working with this repository's code samples 
 |          |               |                                                      |                                                                                                    |
 | 7        | September 16  | 6.1 Binary Tree                                      | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                  |
 |          |               | 6.2 Binary Tree representation of expression         |                                                                                                    |
+|          |               | MIDTERM EXAM                                         |                                                                                                    |
 | 8        | September 26  | 6.3 Binary Traversal                                 |                                                                                                    |
 |          |               | 6.4 Binary Search Trees                              |                                                                                                    |
 |          |               | 6.5 Heap                                             |                                                                                                    |   
 |          |               |                                                      |                                                                                                    |
-| 7        | September 16  | Graph Traversals                                     | [Base on my own Research🚀](https://github.com/flexycode/CCDATRCL)                                 |
-|          | September 19  | Djikstra's Algorithm                                 | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
-| 8        | September 19  | Spanning Tree                                        | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
-|          | September 25  | MIDTERM EXAM                                         | [Kindly give me a star here💫](https://github.com/flexycode/flexycode)                             |
+| 9        | September 30  | 7.1 Hash Table                                       | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                 |
+|          |               | 7.2 Hash Table Operations                            |                                                                                                    |
+| 10       | October 10    | 7.3 Open Hashing                                     |                                                                                                    |
+|          |               | 7.4 Closed Hashing                                   |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 9        | September 30  | MIDTERM EXAM                                         | [Kindly give me a star here💫](https://github.com/flexycode/flexycode)                             |
-| 13       | November 9-15 | Course Synthesis & Final Examination                 | [Kindly give me a star here💫](https://github.com/flexycode/flexycode)                             |
+| 11       | October 14    | 8.1 Graph Definition                                 | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                        |
+|          |               | 8.2 Graph Application                                |                                                                                                    |
+| 12       | October 24    | 8.3 Graph Representation                             |                                                                                                    |
+|          |               | 8.4 Graph Traversal                                  |                                                                                                    |
+|          |               |                                                      |                                                                                                    |
+| 13       | October 28    | Presentation of Final Project                        | [Kindly give my_repo a star here💫](https://github.com/flexycode/flexycode)                        |
+|          | November 7    |                                                      |                                                                                                    |
 
 
 <!-- End point insert background effect line of sight color rainbow -->
