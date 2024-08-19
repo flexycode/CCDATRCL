@@ -78,16 +78,17 @@ The hands-on experience gained from working with this repository's code samples 
 | 4        | August 26     | 4.1 - Stack Definition                               | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
 |          |               | 4.2 - Stack Application                              |                                                                                                    |     
 |          | August 28     | 4.3 - Stack Implementation using an Array            |                                                                                                    | 
-|          |               | - Ø Stack Implementation using a Linked-list         |                                                                                                    |   
+|          |               | 4.4 - Stack Implementation using a Linked-list       |                                                                                                    |   
 |          |               |                                                      |                                                                                                    | 
-|          | August 19     | Queue                                                | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
-|          | August 22     | Sorting Algorithms                                   | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
-| 4        | August 26     | Tree                                                 | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
-|          | August 29     | Binary Search Tree and Heap                          | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
-| 5        | September 2   | Check if a tree is BST or not                        | [Base on my own Research🚀](https://github.com/flexycode/CCDATRCL)                                 |
-|          | September 5   | Binary Tree traversals                               | [Base on my own Research🚀](https://github.com/flexycode/CCDATRCL)                                 |
-| 6        | September 9   | Lowest common ancestor of a Binary Tree              | [Base on my own Research🚀](https://github.com/flexycode/CCDATRCL)                                 |
-|          | September 12  | Graph                                                | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+| 5        | September 2   | 5.1 Queue Definition                                 | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+|          |               | 5.2 Queue Application                                |                                                                                                    |
+| 6        | September 12  | 5.3 Queue Implementation using an Array              |                                                                                                    |
+|          |               | 5.4 Queue Implementation using a Linked-list         |                                                                                                    |
+| 7        | September 16  | 6.1 Binary Tree                                      | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                  |
+|          |               | 6.2 Binary Tree representation of expression         |                                                                                                    |
+| 8        | September 26  | 6.3 Binary Traversal                                 |                                                                                                    |
+|          |               | 6.4 Binary Search Trees                              |                                                                                                    |
+|          |               | 6.5 Heap                                             |                                                                                                    |   
 | 7        | September 16  | Graph Traversals                                     | [Base on my own Research🚀](https://github.com/flexycode/CCDATRCL)                                 |
 |          | September 19  | Djikstra's Algorithm                                 | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
 | 8        | September 19  | Spanning Tree                                        | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
