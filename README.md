@@ -84,15 +84,18 @@ The hands-on experience gained from working with this repository's code samples 
 |          |               | 5.2 Queue Application                                |                                                                                                    |
 | 6        | September 12  | 5.3 Queue Implementation using an Array              |                                                                                                    |
 |          |               | 5.4 Queue Implementation using a Linked-list         |                                                                                                    |
+|          |               |                                                      |                                                                                                    |
 | 7        | September 16  | 6.1 Binary Tree                                      | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                  |
 |          |               | 6.2 Binary Tree representation of expression         |                                                                                                    |
 | 8        | September 26  | 6.3 Binary Traversal                                 |                                                                                                    |
 |          |               | 6.4 Binary Search Trees                              |                                                                                                    |
 |          |               | 6.5 Heap                                             |                                                                                                    |   
+|          |               |                                                      |                                                                                                    |
 | 7        | September 16  | Graph Traversals                                     | [Base on my own Research🚀](https://github.com/flexycode/CCDATRCL)                                 |
 |          | September 19  | Djikstra's Algorithm                                 | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
 | 8        | September 19  | Spanning Tree                                        | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
 |          | September 25  | MIDTERM EXAM                                         | [Kindly give me a star here💫](https://github.com/flexycode/flexycode)                             |
+|          |               |                                                      |                                                                                                    |
 | 9        | September 30  | MIDTERM EXAM                                         | [Kindly give me a star here💫](https://github.com/flexycode/flexycode)                             |
 | 13       | November 9-15 | Course Synthesis & Final Examination                 | [Kindly give me a star here💫](https://github.com/flexycode/flexycode)                             |
 
