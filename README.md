@@ -13,6 +13,8 @@
 
 Data structures and algorithms (DSA) are an important aspect of any programming language. Every language has its own data structures and its way of handling different types of algorithms.
 
+This course focuses on the use of data structures and algorithms for solving computing and real-life problems efficiently. This course covers the following data structures: dynamic arrays, list, stacks, queues, trees, graphs and maps. Analysis of time and space complexity of algorithmic solutions will also be covered
+
 ## 📋 Table of Contents
 
 - [Introduction](#-introduction)
