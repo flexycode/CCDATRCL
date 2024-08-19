@@ -53,18 +53,23 @@ The hands-on experience gained from working with this repository's code samples 
 
 ## 📈 [Lesson](#lesson)              
 
-### CCDATRCL Table lecture
-#### Course Outline and Timeframe
+### Course Outline and Timeframe
+
+#### Delivery Mode: Discussion, Program demonstration, Synchronous Class, Face-to-face
+
 
 | Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
 |----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 1        | August 5      | Class Orientation                                    | Course Syllabus                                                                                     |  
-|          |               | - Ø University Mission & Vision                      |                                                                                                     | 
-|          |               | - Ø College Mission & Vision                         |                                                                                                     |   
-|          |               | - Ø Course Syllabi                                   |                                                                                                     |  
-|          |               | - Ø Lab Guidelines and Safety Review                 |                                                                                                     |
-|          | August 8      | Introduction to Data Structures                      | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |    
-| 2        | August 11     | Linked List                                          | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
+|          |               | - Ø Concept of Abstraction                           |                                                                                                     | 
+|          |               | - Ø Review of types-definitions                      |                                                                                                     |   
+|          |               | - Ø Parameters and Parameter Pasing                  |                                                                                                     |  
+|          |               | - Ø Array Processing and Manipulation                |                                                                                                     |
+|          | August 8      | - Ø Abstract Data Types (ADTs)                       | Course Materials, PPT, Sample Programs                                                              |    
+|          |               | - Ø Introduction to Data Structures                  |                                                                                                     |
+| 2        | August 12     | 2.1 - Classes / Structure                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+|          |               | 2.2 - Class Definition / Type Definition             |                                                                                                     |
+|          | August 15     | Involving structures                                 |                                                                                                     |
 |          | August 15     | Stack                                                | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
 | 3        | August 19     | Queue                                                | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
 |          | August 22     | Sorting Algorithms                                   | [Professor WatchiLei🚀](https://github.com/robitussin/CCDATRCL)                                    |
