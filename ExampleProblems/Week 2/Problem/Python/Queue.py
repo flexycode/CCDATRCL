@@ -1,4 +1,4 @@
-# Example program that demonstrates the use of a Queue (using deque from collections module)
+# Example program that demonstrates the use of a Queue using deque from collections module
 from collections import deque
 
 def queue_example():
@@ -24,3 +24,4 @@ def queue_example():
     print(queue)
 
 queue_example()
+
