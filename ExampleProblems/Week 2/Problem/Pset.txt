@@ -1,0 +1,16 @@
+/**
+ * Lab Exercise 2 - Data Structure and Algorithm
+ * Give at least two example program that applies the following:
+ *
+
+ * Key features:
+ * 1. Array
+ * 2. List
+ * 3. Stacks
+ * 4. Queue
+ 
+
+ * Make a class for each Key features
+ * Create a program for this language: Java, JavaScript, Python.
+ *
+ */
