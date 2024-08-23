@@ -1,27 +1,49 @@
-# Example program that demonstrates the use of a Queue using deque from collections module
-from collections import deque
+queue = []
 
-def queue_example():
-    # Create a Queue of strings
-    queue = deque(["Apple", "Banana", "Cherry", "Date"])
+def display_menu():
+  print("Queue Menu:")
+  print("1. Add elements to the queue")
+  print("2. Remove an element from the front of the queue")
+  print("3. Add another element to the queue")
+  print("4. Exit")
 
-    # Print the queue elements
-    print("Queue elements:")
-    print(queue)
+def add_elements_to_queue():
+  num_elements = int(input("Enter the number of elements to add to the queue: "))
 
-    # Add an element to the queue
-    queue.append("Elderberry")
+  for i in range(num_elements):
+    element = input(f"Element {i + 1}: ")
+    queue.append(element)
+
+  print("Queue elements:")
+  print(queue)
+
+def remove_element_from_front():
+  if queue:
+    removed_element = queue.pop(0)
+    print("Removed element: " + removed_element)
     print("Updated queue elements:")
     print(queue)
+  else:
+    print("Queue is empty. Cannot remove an element.")
 
-    # Remove an element from the front of the queue
-    removed_element = queue.popleft()
-    print("Removed element:")
-    print(removed_element)
+def add_another_element_to_queue():
+  new_element = input("Enter the new element: ")
+  queue.append(new_element)
+  print("Updated queue elements:")
+  print(queue)
 
-    # Print the updated queue elements
-    print("Updated queue elements:")
-    print(queue)
+while True:
+  display_menu()
+  choice = int(input("Enter your choice: "))
 
-queue_example()
-
+  if choice == 1:
+    add_elements_to_queue()
+  elif choice == 2:
+    remove_element_from_front()
+  elif choice == 3:
+    add_another_element_to_queue()
+  elif choice == 4:
+    print("Exiting...")
+    break
+  else:
+    print("Invalid choice. Please try again.")
