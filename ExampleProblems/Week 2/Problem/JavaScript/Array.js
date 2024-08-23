@@ -1,20 +1,36 @@
-// Example program that demonstrates the use of an array
-const arrayExample = () => {
-  // Declare and initialize an array of integers
-  let scores = [90, 80, 70, 95, 85];
+let scores = [];
 
-  // Print the array elements
-  console.log("Array elements:");
-  console.log(scores);
+// Ask the user to enter the size of the array
+let size = parseInt(prompt("Enter the size of the array: "));
 
-  // Access an array element
-  console.log("Accessing an array element:");
-  console.log(scores[0]);
+// Ask the user to enter the values for the array elements
+for (let i = 0; i < size; i++) {
+  let element = parseInt(prompt(`Element ${i + 1}: `));
+  scores.push(element);
+}
 
-  // Update an array element
-  scores[0] = 100;
+// Print the array elements
+console.log("Array elements:");
+console.log(scores.join(" "));
+
+// Ask the user if they want to add or remove an element from the array
+let input = prompt("Do you want to add or remove an element from the array? (add/remove): ");
+
+if (input.toLowerCase() === "add") {
+  // Ask the user to enter the new element
+  let newElement = parseInt(prompt("Enter the new element: "));
+  scores.push(newElement);
+
+  // Print the updated array elements
   console.log("Updated array elements:");
-  console.log(scores);
-};
+  console.log(scores.join(" "));
+} else if (input.toLowerCase() === "remove") {
+  
+  // Ask the user to enter the index of the element to remove
+  let index = parseInt(prompt("Enter the index of the element to remove: "));
+  scores.splice(index, 1);
 
-arrayExample();
+  // Print the updated array elements
+  console.log("Updated array elements:");
+  console.log(scores.join(" "));
+}
