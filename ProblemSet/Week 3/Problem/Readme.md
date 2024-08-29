@@ -14,10 +14,11 @@
  * 4 **Blockchain-based Auction ( Combination of LinkedList )** - Eto pinili sa akin ni Professor Jensen, taray diba yung mahirap pa talaga.
  
 #### Key features that needs to apply in the program:
- * 1. 
- * 2. 
- * 3. 
- * 4. 
+ * Insertion
+ * Deletion
+ * Searching 
+ * Traversing
+ * Traversal
  
 
 #### Just show the program and structure comment on how those DSA of LL working
