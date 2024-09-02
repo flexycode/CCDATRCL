@@ -4,7 +4,7 @@
 # 💫 Week 3 - DATA STRUCTURES AND ALGORITHMS
 
 
-## 💻 Lab Exercise 3 - Data Structure and Algorithm
+## 💻 Lab Exercise 3 - **LinkedList**
 ### Propose a project program that has something to do with the discussion for today regarding on LinkedList and give your fucking best. Explain your output by Monday and do your best, stop wasting time code it and don't sleep. 
 
 #### Proposal Project that I suggest:
