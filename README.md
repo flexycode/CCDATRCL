@@ -171,7 +171,7 @@ Professor Jensen background profile coming soon...
 
 # 📫 Changelogs
 ```
-## [8.0.0] - 2024-08-05      
+## [8.0.4] - 2024-08-05      
 ### Added  
 - ✨ Uploaded Outline and Timeframe
 - ✨ Added Asset Folder
@@ -181,6 +181,21 @@ Professor Jensen background profile coming soon...
 
 ### Fixed 
 - ✨ Fix documentation
+
+## [8.1.3] - 2024-08-12     
+### Added  
+- ✨ Uploaded lecture for Introduction To Data Structures
+- ✨ Added Folder Week 0 PSET  0
+
+## [8.0.0] - 2024-08-19      
+### Added  
+- ✨ Uploaded lecture for Linked List
+- ✨ Added Folder Week 1 PSET 1
+
+## [8.0.0] - 2024-08-26      
+### Added  
+- ✨ Linked List
+- ✨ Added Folder Week 2 PSET 2
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
