@@ -173,14 +173,14 @@ Professor Jensen background profile coming soon...
 ```
 ## [8.0.0] - 2024-08-05      
 ### Added  
-- ✨ Coming Soon
-- ✨ Coming Soon
+- ✨ Uploaded Outline and Timeframe
+- ✨ Added Asset Folder
 
 ### Changed
-- ✨ Coming Soon
+- ✨ Rename folder for PSET
 
 ### Fixed 
-- ✨ Coming Soon
+- ✨ Fix documentation
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
