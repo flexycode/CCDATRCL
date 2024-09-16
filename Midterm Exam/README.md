@@ -51,8 +51,43 @@ The basic module requirements are as follows:
 * The circular queue should support basic operations such as enqueue, dequeue and peek
 * The implementation should consider memory efficiency and performance optimization
 
+# 🚀 Screenshot
 
+``
+Coming Soon
+``
 
+# 💾 Database
+
+**supplychain_management_system.sql**
+
+# 📫 Changelogs   
+
+```bash
+## [9.0.0] - 2024-09-12      
+### Added  
+- ✨ Propose Supplychain Management
+- ✨ Algorithm: Circular Queue DSA 
+
+### Changed
+- ✨ Rename Folder
+
+### Fixed 
+- ✨ Fix Documentation
+
+## [9.1.1] - 2024-09-15      
+### Added  
+- ✨ Create documentation
+- ✨ Brainstorm some shit stuff into this project
+
+## [9.2.1] - 2024-09-16      
+### Added  
+- ✨ Start coding using Java PL
+
+## [9.3.1] - 2024-09-17      
+### Added  
+- ✨ Coming Soon
+```
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#-overview)
