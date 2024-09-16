@@ -196,6 +196,14 @@ Professor Jensen background profile coming soon...
 ### Added  
 - ✨ Linked List
 - ✨ Added Folder Week 2 PSET 2
+
+## [9.0.2] - 2024-09-16      
+### Added  
+- ✨ Queue
+- ✨ Added Folder for Midterm Exam
+
+
+🧊 Data Structure and Algorithm
 ```
 
 <!-- End point insert background effect line of sight color rainbow -->
