@@ -6,6 +6,9 @@
 ### No. of Units: 3.0 Units
 ### Prerequisite: [CCPRGG2L Intermediate Programming](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_PROGRAMMING)
 
+### 💎 Project Proposal
+Conceptualize a goods supplychain management scenario, and develop a goods warehouse management information system to meet the business operation requirements of goods inbound, inventory management, and outbound.
+
 ### 🧠 Overview 
 The frontend is built using JSP, but only uses `${pageContext.request.contextPath}`. 
 The UI is based on Layui, and it uses a small amount of Ajax, making it a separated frontend and backend project.
