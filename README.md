@@ -202,6 +202,9 @@ Professor Jensen background profile coming soon...
 - ✨ Queue
 - ✨ Added Folder for Midterm Exam
 
+## [9.0.2] - 2024-09-19      
+### Activity  
+- ✨ Checking for Midterm Project Exam 
 
 🧊 Data Structure and Algorithm
 ```
