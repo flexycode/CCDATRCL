@@ -206,9 +206,12 @@ Professor Jensen background profile coming soon...
 ### Activity  
 - ✨ Checking for Midterm Project Exam 
 
+## [9.0.2] - 2024-09-23      
+### Activity  
+- ✨ Uploaded lecture for Trees
+
 🧊 Data Structure and Algorithm
 ```
-
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#-introduction)
