@@ -3,7 +3,7 @@
 
 # 💫 CCDATRCL - DATA STRUCTURES AND ALGORITHMS
 
-### Name: Jay Arre Talosig  
+### Name: [Jay Arre Talosig](https://github.com/flexycode)  
 ### Subject & Section: CCDATRCL - COM231 
 ### Professor: Mrs. Jensen A. Santillan       
 ### No. of Units: 3 Units
