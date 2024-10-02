@@ -89,8 +89,9 @@ The hands-on experience gained from working with this repository's code samples 
 |          |               | 6.2 Binary Tree representation of expression         |                                                                                                    |
 |          |               | MIDTERM EXAM                                         |                                                                                                    |
 |          | September 26  | 6.3 Binary Traversal                                 |                                                                                                    |
+|          |               |                                                      |                                                                                                    | 
 |          |               | 6.4 Binary Search Trees                              |                                                                                                    |
-|          |               | 6.5 Heap                                             |                                                                                                    |   
+| 7        | September 30  | 6.5 Heap                                             |                                                                                                    |   
 |          |               |                                                      |                                                                                                    |
 | 7        | September 30  | 7.1 Hash Table                                       | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                 |
 |          |               | 7.2 Hash Table Operations                            |                                                                                                    |
@@ -206,9 +207,13 @@ Professor Jensen background profile coming soon...
 ### Activity  
 - ✨ Checking for Midterm Project Exam 
 
-## [9.0.2] - 2024-09-23      
+## [9.0.1] - 2024-09-23      
 ### Activity  
 - ✨ Uploaded lecture for Trees
+
+## [9.0.1] - 2024-09-30      
+### Activity  
+- ✨ Uploaded lecture for Heap
 
 🧊 Data Structure and Algorithm
 ```
