@@ -1,0 +1,19 @@
+Lab Activity 
+Constructing Heap
+
+1. PSET1
+Max and Min ---- 1. 4, 1 ,6, 10, 11, 13, 5, 2
+Max Heapyfy = 20, 3, 25
+Min -  Remove thrice
+
+2. PSET2
+Max and Min ---- 36, 21 ,23, 29, 31, 34, 24, 15, 49
+Max Heapyfy = 10, 50, 30
+Min -  Remove thrice
+
+3. PSET3
+Max and Min ---- 100, 55, 78, 60, 10, 5, 9
+Min --> Heapyfy = 11, 12, 60
+Min -->  Remove twice
+Max --> Heapyfy = 11, 12, 60
+Max --> Remove twice
