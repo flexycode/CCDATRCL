@@ -215,6 +215,10 @@ Professor Jensen background profile coming soon...
 ### Activity  
 - ✨ Uploaded lecture for Heap
 
+## [9.0.1] - 2024-10-14      
+### Activity  
+- ✨ Uploaded lecture for Graphs
+
 🧊 Data Structure and Algorithm
 ```
 
