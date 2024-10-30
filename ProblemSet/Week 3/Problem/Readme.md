@@ -24,7 +24,39 @@
 #### Just show the program and structure comment on how those DSA of LL working
 
 
-#### Create a program for this language: Solidity, Rust, Go.
+💻 Project Code Tree Structure
+
+```
+├───.idea
+│   └───inspectionProfiles
+├───.venv
+│   ├───Lib
+│   │   └───site-packages
+│   │       ├───pip
+│   │           ├───_internal
+│   │           │
+│   │           └───_vendor
+│   │
+│   └───Scripts
+├───data_structures
+│    ├───__init__.py
+│    └─── circular_doubly_linked_list.py
+│
+├───models
+│    ├───__init__.py
+│    ├─── auction_item.py
+│    └─── node.py
+├───services
+│    ├───__init__.py
+│    └─── auction_system.py
+└───ui
+     ├───__init__.py
+     └─── user_interface.py
+```
+✨LinkedList
+
+### ✨LL Tech stacks
+#### Create a program for this language: Python, JavaScript 
 
 <!-- Genshin Impact -->
 <div align="center">
